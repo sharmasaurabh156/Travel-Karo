@@ -1,0 +1,6 @@
+{
+  "name": "Travel Saathi",
+  "description": "Intelligent India travel discovery, multi-modal transport comparison, hotel & restaurant guide, day-wise trip planner, journey playlists, and festival guide.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
